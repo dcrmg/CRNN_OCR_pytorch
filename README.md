@@ -2,6 +2,9 @@ Convolutional Recurrent Neural Network (CRNN) Implement with pytorch for chinese
 
 1. Prepare training data, you can find samples(with labels) in the folder of "data", it looks like:
 
+
+![Alt text](https://github.com/dcrmg/CRNN_OCR_pytorch/blob/master/data/07909298-5a3f-11e8-a408-000c29cf3ddc.jpg)
+
    ![Pic1](https://github.com/dcrmg/CRNN_OCR_pytorch/master/data/07909298-5a3f-11e8-a408-000c29cf3ddc.jpg)
    ![Pic1](https://github.com/dcrmg/CRNN_OCR_pytorch/master/data/08df0480-5a3f-11e8-a408-000c29cf3ddc.jpg)
    
